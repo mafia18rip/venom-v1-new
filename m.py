@@ -1,10 +1,9 @@
 #script by @venomXcrazy
 
-import telebot
-import subprocess
-import datetime
-import os
-
+import pip install telebot
+import pip install flask
+import pip install aiogram
+import pip install pyTelegramBotAPI
 from keep_alive import keep_alive
 keep_alive()
 # insert your Telegram bot token here
@@ -450,5 +449,10 @@ while True:
         bot.polling(none_stop=True)
     except Exception as e:
         print(e)
+pip install telebot
 
+pip install flask
 
+pip install aiogram
+
+pip install pyTelegramBotAPI
